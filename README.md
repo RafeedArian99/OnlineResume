@@ -1,2 +1,0 @@
-# OnlineResume
-My official resume
